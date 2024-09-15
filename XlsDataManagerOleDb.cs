@@ -94,7 +94,5 @@ public class XlsDataManagerOleDb
                Console.WriteLine($"{record}");
             }
         }
-
-        
     }
 }
